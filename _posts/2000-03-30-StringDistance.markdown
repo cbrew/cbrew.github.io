@@ -124,54 +124,30 @@ which has cost 0 and no further traceback information.
 Finally, we do the main loop as before, except that more bookkeeping is needed to make sure that best paths are preserved. So `min`
 is replaced by `best`, which is provided below.
 	
-<pre style="text-align:left;">	for i below m
-	    for j below n
-		if string1(i) == string2(j)
-		    subst = 0
-		else
-		    subst = substCost
-                endif
-		d(i+1,j+1) = best ((subst,MATCH,d(i,j))
-				   (insCost,INS,d(i+1,j))
-				   (delCost,DEL,d(i,j+1)))
-           endfor
-       endfor
+```python
+for i in range(m):
+ for j in range(n)
+    subst = 0 if string1(i) == string2(j) else substCost
+    d[i+1,j+1] = best (Traceback(subst + d[i,j].cost,Move.MATCH,d[i,j]),
+	               Traceback(insCost + d[i+1,j].cost,Move.INS,d[i+1,j]),
+	               Traceback(delCost+ d[i,j+1].cost,Move.DEL,d[i,j+1]))
+     
 
-       return d(m,n)
-enddef edit_path
-</pre>
+return d[m,n]
 
-Now we just need <pre style="text-align:left;">best</pre>, which constructs the tuple that belongs in
-<pre style="text-align:left;">d(i+1,j+1)</pre>. This is the one with the lowest cost. It's difficult to make this code clear enough. My best effort uses a little auxilliary function to pull the cost out of the traceback tuple
-<pre style="text-align:left;">def cost(tb)
-   c,m,rest = tb
-   return c
-enddef cost
+```
 
+Now we just need `best`, which selects the tuple that belongs in `d(i+1,j+1)`. This is the one with the lowest cost. 
+Pythonistas will probably realize that best is really a version of the method that is called `argmax` in Pandas and Numpy.
 
-def best(sub_move,ins_move,del_move)
-    increment, move1, tb1 = sub_move
-    cost_with_sub =  increment + cost(tb1)
-    increment,move2,  tb2 = ins_move
-    cost_with_ins =  increment + cost(tb2)
-    increment,move3,  tb3 = del_move
-    cost_with_del =  increment + cost(tb3)
-
-    best_cost = cost_with_sub
-    move = sub_move
-    tb = tb1
-    if cost_with_ins &#60; best_cost then
-     move = ins_move
-     tb = tb2
-    endif
-    if cost_with_del &#60; best_cost then
-     move = del_move
-     tb = tb3
-    endif
-    return cost,move,tb
-enddef best
-
-</pre>
+```python
+def best(sub_move,ins_move,del_move):
+  chosen = sub_move
+  if ins_move.cost < chosen.cost:
+	chosen = ins_move
+  if del_move.cost < chosen.cost:
+ 	chosen = del_move  
+```
 
 
 Martin Jansche adds:: there is also the connection between string edit distance and weighted automata. The basic insight is that you view both strings as a special kind of automaton that has precisely one path from the start state to the final state, and you also need a weighted transducer that specifies what operations are possible and what weight is associated with each, then all you do is compose the three machines and find the least-cost path, whose cost is then the string edit distance. I've heard this being mentioned several times before, but I finally found it on some slides by Mohri, Pereira &#38; Riley that came with the AT&#38;T FSM library and toolkit as (or, in lieu of) some kind of documentation. </p>\
