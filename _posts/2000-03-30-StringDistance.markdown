@@ -173,14 +173,21 @@ Alec Seward found some bugs in an earlier version of this page. I'm grateful. Al
 This post resulted in the creation of at least two implementations. There's 
 
 - A [Perl module called Text::Brew](https://metacpan.org/pod/Text::Brew) by Keith Ivey. 
-- A [Python package](https://github.com/dhgutteridge/Brew-Distance) by David Gutteridge, 
- .
+- A [Python package](https://github.com/dhgutteridge/Brew-Distance) by David Gutteridge. 
+
+
 David comments that: 
 
 > This implementation is useful for cases where real-time performance is not a consideration, but re-weighting edit types or the post-processing evaluation of edit steps is a requirement. (Also, as it's a simple, pure Python implementation, it could be easily customized, and it could be used as a sample implementation for educational purposes.) 
 
 That's exactly what I had in mind. If you really need fast performance try [polyleven](https://github.com/fujimotos/polyleven) 
-in Python or go looking for an implementation in another language. Many exist. 
+in Python. 
+
+### Other text processing tools
+
+[OpenFST]{https://www.openfst.org/twiki/bin/view/FST/WebHome} is an open version of the A T &ampersand; T toolkit that Martin Jansche mentioned above. 
+It's worth your time if you want fast, efficient and composable low-level text processing tools. 
+There is also a higher-level language called [Thrax]{https://www.openfst.org/twiki/bin/view/GRM/Thrax} which can greatly speed development.
 
 
 
