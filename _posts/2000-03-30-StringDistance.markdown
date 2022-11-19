@@ -11,7 +11,7 @@ The task is to calculate the "edit distance" between two sequences.
 This is defined as the cheapest way of using the elementary operations "insert","delete" and "substitute" to turn one sequence into the other. 
 The algorithm below does this efficiently by filling up a square array of distances, starting from the bottom left and working to the top right. 
 (the efficiency in question is time efficiency, but space is not too bad either, since typically not every entry in the array is relevant to the 
-optimimum path, so there are various opportunities to save space if one wants to take the trouble). </p><p style="text-align:left;">
+optimum path, so there are various opportunities to save space if one wants to take the trouble).
 We work with a rectangular array of cells with dimensions *one bigger*
 than the strings to be compared.
 
