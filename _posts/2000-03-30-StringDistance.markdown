@@ -169,14 +169,19 @@ Alec Seward found some bugs in an earlier version of this page. I'm grateful. Al
 
 <address style="text-align:left;"><a href="mailto:cbrew@acm.org" style="text-align:left;" target="_blank">Chris Brew</a></address>
 
-22 years later (11-19-2022) Chris adds: This post resulted in the creation of at least two implementations. 
+## 22 years later (11-19-2022) Chris adds: 
 
-There's a Perl module by Keith Ivey. (https://metacpan.org/pod/Text::Brew) and a Python package by David Gutteridge, ( https://github.com/dhgutteridge/Brew-Distance ) .
+This post resulted in the creation of at least two implementations. There's 
+
+- A [Perl module called Text::Brew](https://metacpan.org/pod/Text::Brew) by Keith Ivey. 
+- A [Python package](https://github.com/dhgutteridge/Brew-Distance) by David Gutteridge, 
+ .
 David comments that: 
 
 > This implementation is useful for cases where real-time performance is not a consideration, but re-weighting edit types or the post-processing evaluation of edit steps is a requirement. (Also, as it's a simple, pure Python implementation, it could be easily customized, and it could be used as a sample implementation for educational purposes.) 
 
-That's exactly what I had in mind. If you really need fast performance while staying in Python, try https://github.com/fujimotos/polyleven 
+That's exactly what I had in mind. If you really need fast performance try [polyleven](https://github.com/fujimotos/polyleven) 
+in Python or go looking for an implementation in another language. Many exist. 
 
 
 
