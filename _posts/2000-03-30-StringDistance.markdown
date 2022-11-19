@@ -4,7 +4,6 @@ title: "Calculating Edit Distance Between Sequences"
 date: 2000-03-30 12:41:00 EST
 categories: algorithms nlp
 ---
-# Calculating Edit Distance Between Sequences
 ## Introduction
 
 This document describes a (simpler) algorithm closely related to the Viterbi decoding method for HMMs. 
