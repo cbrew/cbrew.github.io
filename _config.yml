@@ -22,8 +22,8 @@ title: Chris Brew's Home Page on Github
 email: christopher.brew@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am an applied scientist and developer working in NLP and computational linguistics. I like both
-  modern data-driven approaches and older methods. I plan to add a slow stream of primarily educational 
-  posts, staring with a revamp of one from 2000 that proved particularly influential.
+  modern data-driven approaches and older methods. I plan to add a slow stream of 
+  posts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cbrew.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
