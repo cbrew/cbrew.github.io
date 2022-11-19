@@ -122,7 +122,7 @@ This code says that distances[0,0] has cost zero, and that no further traceback 
 Once again we fill in the edges.
 
 ```python
-# Deletions
+    # Deletions
     for i in range(0, len1):
         so_far = distances[i, 0].cost
         distances[i + 1, 0] = Traceback(
