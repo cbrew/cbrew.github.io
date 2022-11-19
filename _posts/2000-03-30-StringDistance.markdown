@@ -47,38 +47,49 @@ for j in range(n):
 ...
 ```
   
-  
-<p style="text-align:left;">
-We fill in the first column, adding entries with indices (0,1) through (0,n) </p><pre style="text-align:left;">
-	for i below m
-	    for j below n
-		if string1(i) == string2(j)
-		    subst = 0
-		else
-		    subst = substCost
-                endif
-		d(i+1,j+1) = min(d(i,j) +  subst,
-				 d(i+1,j)+ insCost,
-				 d(i,j+1)+ delCost)
-           endfor
-       endfor
-</pre>
-<p style="text-align:left;">
+We fill in the first column, adding entries with indices [0,1] through [0,n] 
+
+
+```python
+for i in range(m):
+ for j in range(n):
+  if string1[i] == string2[j]:
+   subst = 0
+  else:
+    subst = substCost          
+  d[i+1,j+1] = min(d[i,j] +  subst,
+		   d[i+1,j] + insCost,
+		   d[i,j+1] + delCost)
+
+```
+
 Once we have the edges of the array, we can work outwards, filling in the values which depend on these. We look at all three possible predecessors of each cell, taking the one which gives the lowest cost.
-    his version says that there is no charge for matching a letter against itself, but that it costs one penalty point to match against anything else.
-    It would be easy to vary this if we thought, for example, that it was less bad to confuse some letter pairs than to confuse others. </p>
+	
+This version says that there is no charge for matching a letter against itself, but that it costs one penalty point to match against anything else.
+It would be easy to vary this if we thought, for example, that it was less bad to confuse some letter pairs than to confuse others.
 
-<pre style="text-align:left;">	return d(m,n)
-enddef sdist
-</pre>
-<p style="text-align:left;">
+At the end, the total distance is in the cell at [m,n]. 
 
-    At the end, the total distance is in the cell at (m,n). </p><p style="text-align:left;">
-This scheme can be adapted to compute the sequence of edit operations rather than just the number. This is done by changing the element type of </p><pre style="text-align:left;">d</pre>
-from <pre style="text-align:left;">integer</pre>
-to <pre style="text-align:left;">traceback = integer *move* traceback option</pre>. where
-<pre style="text-align:left;">move = INITIAL|DEL|INS|MATCH</pre>
-(Here we are adopting terminology from the ML programming language. This means that there is a type of thing called a traceback which consists of an integer packaged with a field that points back to a further traceback). The idea is that the traceback information accessible from <pre style="text-align:left;">d(m,n)</pre>
+This scheme can be adapted to compute the sequence of edit operations rather than just the number. 
+This is done by changing the element type of the array from integer to a *traceback* consisting of a cost, a move
+and a reference to the previous traceback. In modern Python code one way to express this is as below:
+	
+```python
+class Move(Enum):
+    MATCH = 0
+    INS = 1
+    DEL = 2
+    SUBST = 3
+    INITIAL = 4
+
+
+class Traceback(NamedTuple):
+    cost: int
+    move: Move
+    traceback: Optional["Traceback"]
+```
+
+This means that there is a type of thing called a traceback which consists of an integer packaged with a field that points back to a further traceback). The idea is that the traceback information accessible from `d[m,n]`
 is sufficient to recover the full description of a minimal cost path all the way back to <pre style="text-align:left;">d(0,0)</pre>.
 <p style="text-align:left;">
 We again start by setting up variables and seeding the recursion at </p><pre style="text-align:left;">d(0,0)</pre>.
