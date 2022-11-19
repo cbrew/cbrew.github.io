@@ -89,10 +89,10 @@ class Traceback(NamedTuple):
     traceback: Optional["Traceback"]
 ```
 
-This means that there is a type of thing called a traceback which consists of an integer packaged with a field that points back to a further traceback). The idea is that the traceback information accessible from `d[m,n]`
-is sufficient to recover the full description of a minimal cost path all the way back to <pre style="text-align:left;">d(0,0)</pre>.
-<p style="text-align:left;">
-We again start by setting up variables and seeding the recursion at </p><pre style="text-align:left;">d(0,0)</pre>.
+The idea is that the traceback information accessible from `d[m,n]` is sufficient to recover the full description of a minimal cost path all the way back to `d[0,0]`.
+
+We again start by setting up variables and seeding the recursion at `d[0,0]`.
+	
 <pre style="text-align:left;">def edit_path(string1,string2)
 	delCost = 1.0
 	insCost = 1.0
