@@ -159,14 +159,24 @@ def best(sub_move,ins_move,del_move)
 enddef best
 
 </pre>
-<p style="text-align:left;">
-Martin Jansche adds:: there is also the connection between string edit distance and weighted automata. The basic insight is that you view both strings as a special kind of automaton that has precisely one path from the start state to the final state, and you also need a weighted transducer that specifies what operations are possible and what weight is associated with each, then all you do is compose the three machines and find the least-cost path, whose cost is then the string edit distance. I've heard this being mentioned several times before, but I finally found it on some slides by Mohri, Pereira &#38; Riley that came with the AT&#38;T FSM library and toolkit as (or, in lieu of) some kind of documentation. </p><p style="text-align:left;">
-Alec Seward found some bugs in an earlier version of this page. I'm grateful. Also to Alex Martelli who found another typo and provided a Python implementation of the algorithm. If there are any more, please let me know. </p><hr style="text-align:left;"/>
-<address style="text-align:left;"><a href="mailto:cbrew@ling.ohio-state.edu" style="text-align:left;" target="_blank">Chris Brew</a></address>
 
 
-Last modified: Fri Mar 30 12:14:03 EST 2001
+Martin Jansche adds:: there is also the connection between string edit distance and weighted automata. The basic insight is that you view both strings as a special kind of automaton that has precisely one path from the start state to the final state, and you also need a weighted transducer that specifies what operations are possible and what weight is associated with each, then all you do is compose the three machines and find the least-cost path, whose cost is then the string edit distance. I've heard this being mentioned several times before, but I finally found it on some slides by Mohri, Pereira &#38; Riley that came with the AT&#38;T FSM library and toolkit as (or, in lieu of) some kind of documentation. </p>\
 
 
-</body>
-</html>
+Alec Seward found some bugs in an earlier version of this page. I'm grateful. Also to Alex Martelli who found another typo and provided a Python implementation of the algorithm. If there are any more, please let me know.
+
+
+<address style="text-align:left;"><a href="mailto:cbrew@acm.org" style="text-align:left;" target="_blank">Chris Brew</a></address>
+
+22 years later (11-19-2022) Chris adds: This post resulted in the creation of at least two implementations. 
+
+There's a Perl module by Keith Ivey. (https://metacpan.org/pod/Text::Brew) and a Python package by David Gutteridge, ( https://github.com/dhgutteridge/Brew-Distance ) .
+David comments that: 
+
+> This implementation is useful for cases where real-time performance is not a consideration, but re-weighting edit types or the post-processing evaluation of edit steps is a requirement. (Also, as it's a simple, pure Python implementation, it could be easily customized, and it could be used as a sample implementation for educational purposes.) 
+
+That's exactly what I had in mind. If you really need fast performance while staying in Python, try https://github.com/fujimotos/polyleven 
+
+
+
