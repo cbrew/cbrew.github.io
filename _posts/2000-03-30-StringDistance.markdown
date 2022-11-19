@@ -93,35 +93,37 @@ The idea is that the traceback information accessible from `d[m,n]` is sufficien
 
 We again start by setting up variables and seeding the recursion at `d[0,0]`.
 	
-<pre style="text-align:left;">def edit_path(string1,string2)
+
+```python
+def edit_path(string1,string2)
 	delCost = 1.0
 	insCost = 1.0
 	substCost = 1.0
         m = len(string1)
         n = len(string2)
-        d(0,0) = (0,INITIAL,None)
-</pre>
-<p style="text-align:left;">
-This notation is intended to convey the fact that d(0,0) has cost zero, and that no further traceback information is necessary. </p><p style="text-align:left;">
-Once again we fill in the edges: </p><pre style="text-align:left;">	for i below m
-            (sofar,tb) = d(i,0) (*)
-	    d(i+1,0) = (sofar + delCost,DEL,d(i,0)) (**)
-        endfor
-	for j below n
-            (sofar,tb) = d(0,j) (*)
-	    d(0,j+1) = (sofar + insCost, INS,d(0,j)) (**)
-        endfor
+        d[0,0] = Traceback(0,Move.INITIAL,None)
+```
+This code says that d[0,0] has cost zero, and that no further traceback information is necessary. 
+	
+Once again we fill in the edges.
 
-</pre>
-<p style="text-align:left;">
-Here we are using the lines marked (*) to get the cost out of the predecessor, and the lines marked (**) to put appropriate information into the new cell. The traceback information in each new cell points back to its predecessor. For example </p><pre style="text-align:left;">d(0,2)</pre>
-has cost <pre style="text-align:left;">2*insCost</pre>
-and its traceback field points to <pre style="text-align:left;">d(0,1)</pre>. This in turn has cost
-<pre style="text-align:left;">insCost</pre>
-and points back to <pre style="text-align:left;">d(0,0)</pre>
-which has cost 0 and no further traceback information. <p style="text-align:left;">
-Finally, we do the main loop as before, except that more bookkeeping is needed to make sure that best paths are preserved. So </p><pre style="text-align:left;">min</pre>
-is replaced by <pre style="text-align:left;">best</pre>, which is provided below.
+```python
+for i in range(m):
+  sofar = d[i,0].cost
+  d[i+1,0] = Traceback(soFar + delCost,Move.DEL,d[i,0]) 
+
+for j in range(n):
+   sofar = d[0,j].cost
+   d[0,j+1] = Traceback(sofar + insCost, INS,d[0,j])
+```
+
+Here we are first getting the cost out of the predecessor, then putting appropriate information into the new cell. The traceback information in each new cell points back to its predecessor. For example `d[0,2]` has cost 2
+and its traceback field points to `d[0,1]`. This in turn has cost `insCost`and points back to `d[0,0]`
+which has cost 0 and no further traceback information.
+	
+Finally, we do the main loop as before, except that more bookkeeping is needed to make sure that best paths are preserved. So `min`
+is replaced by `best`, which is provided below.
+	
 <pre style="text-align:left;">	for i below m
 	    for j below n
 		if string1(i) == string2(j)
@@ -138,6 +140,7 @@ is replaced by <pre style="text-align:left;">best</pre>, which is provided below
        return d(m,n)
 enddef edit_path
 </pre>
+
 Now we just need <pre style="text-align:left;">best</pre>, which constructs the tuple that belongs in
 <pre style="text-align:left;">d(i+1,j+1)</pre>. This is the one with the lowest cost. It's difficult to make this code clear enough. My best effort uses a little auxilliary function to pull the cost out of the traceback tuple
 <pre style="text-align:left;">def cost(tb)
@@ -180,6 +183,8 @@ Alec Seward found some bugs in an earlier version of this page. I'm grateful. Al
 <address style="text-align:left;"><a href="mailto:cbrew@acm.org" style="text-align:left;" target="_blank">Chris Brew</a></address>
 
 ## 22 years later (11-19-2022) Chris adds: 
+
+I have revised the original a little. Since Python is now much better known, the demo code is now very much like Python. If you want something you can run immediately, try using [David Gutteridge's code](https://github.com/dhgutteridge/Brew-Distance), referenced below. It has all the paraphernalia of a real Python package, with tests, build files and all that.
 
 This post resulted in the creation of at least two implementations. There's 
 
