@@ -25,20 +25,6 @@ def sdist(string1, string2):
     n = len(string2)
     d = dict()
     d[0, 0] = 0.0
-    for i in range(m):
-        d[i + 1, 0] = d[i, 0] + delCost
-    for j in range(n):
-        d[0, j + 1] = d[0, j] + insCost
-    for i in range(m):
-        for j in range(n):
-            if string1[i] == string2[j]:
-                subst = 0
-            else:
-                subst = substCost
-            d[i + 1, j + 1] = min(
-                d[i, j] + subst, d[i + 1, j] + insCost, d[i, j + 1] + delCost
-            )
-    return d[m, n]
 ```
 
   We set up some variables, then seed the recursion with the left hand bottom element. 
