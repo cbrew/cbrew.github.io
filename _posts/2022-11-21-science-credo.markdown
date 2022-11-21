@@ -10,3 +10,10 @@ categories: science nlp nlu compling
 - My thesis advisor, [Steve Isard](https://www.semanticscholar.org/author/S.-Isard/1901024?sort=influence) is interested in everything, knowledgeable about almost all of it, writes and publishes important stuff, and resists categorization as belonging to any particular field. I like that approach.
 - Everybody quotes Feynman, “The first principle is not to fool yourself – and you are the easiest person to fool.”, but it bears repeating.
 - Drew McDermott, in the 1970s, wrote [Artificial Intelligence Meets Natural Stupidity](https://www.inf.ed.ac.uk/teaching/courses/irm/mcdermott.pdf), cataloguing ways in which AI researchers tended to fool themselves. The details are dated, but the lessons are eternal.
+
+
+## Psychology
+
+I came into academia via a "conversion Masters Degree" that ran at the Department of Experimental Psychology of the University of Sussex. This was, in essence, an accelerated version of the Department's Bachelor of Science undergraduate degree. I took classes from Keith Oatley, Stuart Sutherland, George Mather, Bob Boakes, Alan Parkin, Chris Darwin, Maureen Marks, Steve Isard, Pete Clifton and Mic Burton, among others. The Departmemt was co-located with an excellent Biology Department and with a MRC research unit that did applied cognitive psychology. Christopher Longuet-Higgins held a Royal Society research professorship there, and friends of the department included Mark Steedman, Geoff Hinton and Donia Scott (who was a postdoc for most of the time I was there. Although I have spent most of my career in AI and Linguistics, I feel immensely grateful and lucky to have started by learning about how to do experiments on humans. Mic Burton, in particular, was a no bullshit grader who got  everyone in his Physiological Psychology tutorial group to at least try think really clearly about tricky experiments.
+
+Across the campus was a world-class department of Cognitive Studies, with Gerald Gazdar, Aaron Sloman and Margaret Boden, Chris Mellish, Alan Ramsey and many others. Excellent place to hang out, and they called the coffee room the Debugging Room, which it was.
