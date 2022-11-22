@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I try to do science"
-date: 2021-11-21
+date: 2022-11-21
 categories: science nlp nlu compling
 ---
 ## Inspirations
