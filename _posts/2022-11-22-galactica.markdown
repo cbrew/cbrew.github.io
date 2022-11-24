@@ -25,6 +25,9 @@ Where does Galactica, which targets scientific knowledge, stand relative to this
 outstandingly well. In fact, when people began to play with the demo, it turned out not to be at all hard to obtain output that was variously offensive, 
 disturbing, generally misguided or just plain wrong. This produced a storm of bad publicity, after which the demo was taken down. Part of the issue is 
 the simple fact that if a high-profile company puts a demo up on the Internet, there will always be people who will be motivated to break the demo. 
-But there is clearly more to it than that ... (to be continued)
+But there is clearly more to it than that.
+
+One issue is the enabling of scientific malpractice. Koestler's "Case of the Midwife Toad" and other examples, such as Cyril Burt's twin studies, show 
+that researchers can gain short-term benefit and reputation by publishing bogus studies. The base rate of serious scientific malpractice in the peer-reviewed and published research literature is unknown, probably quite low, and the review process is designed to keep it that way. It is convenient that substantively bad scientific work is often bad along other easily detectable dimensions, such as terminology and style. This facilitates the peer review process, because rejecting a paper that is obviously very badly written takes less reviewer effort. Since Galactica produces text that looks good along these dimensions, and people will submit such papers, it runs the risk of burdening the review process.
 
 
