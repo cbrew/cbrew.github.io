@@ -5,4 +5,9 @@ date: 2022-12-05
 categories: generative text LLM
 ---
 
-ChatGPT is flavor of the month. 
+ChatGPT is flavor of the month.  Models like this are very good at pastiche: the emulation of a style. To determine if something ‘looks right’ we rely on shallow patterns, and they are great at that. This matters because,in our experience with people a command of style usually goes together with command of the content. A person who can produce math that is content correct and in good style can also produce stuff that is in good style but content incorrect. But they usually don’t. So when we encounter model output we tend to evaluate it on the assumption that style and content are pointing in the same direction.
+
+Abandoning that assumption is hard for us to do. We tend to fall back in to the mental shortcut of relying on the correlation. Consequently we tend to cut the models more slack than they deserve. 
+
+
+
