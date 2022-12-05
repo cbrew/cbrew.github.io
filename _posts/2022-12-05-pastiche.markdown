@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Pastiche"
+date: 2022-12-05
+categories: generative text LLM
+---
+
+ChatGPT is flavor of the month. 
