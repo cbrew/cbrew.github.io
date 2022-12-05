@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Machine-aided poetry"
+title: "What if William Shakespeare had written a technical guide to blockchain technology?"
 date: 2022-12-05
 categories: generative text LLM
 ---
+
+# What if William Shakespeare had written a technical guide to blockchain technology? 
 
 See [Botnik Studios](https://botnik.org/) for how this was made. I wrote it with the help of a simple
 language model created from all of Shakespeare's known writing. Every word in the sonnet is in there somewhere.
 It's a challenge to write accurately about Web 3 without having the words 'electricity' or 'binary', or 'crypto-anything'.
 
-What if William Shakespeare had written a technical guide to blockchain technology? 
+
 
 ```
 Its soul a mage has carved from one and none. 
