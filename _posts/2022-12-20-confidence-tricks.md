@@ -31,48 +31,48 @@ If the third alternative is right, the whole thing is a confidence trick and we 
 The description that follows is from David Maurer, an academic writing in the 1950s. There are nine stages of a con. Imagine a gang of swindlers preying on 
 people during and after a train journey from small towns to a bigger city. The picaresque language is dated, as is the setting, but the concepts haven't changed in 70 years.
 
-1. Putting the mark up
+## 1. Putting the mark up
  
 The point of this is to find someone who it is worth swindling, but who maybe lacks the network and resources to avoid the con. A very rich mark would probably have access to lawyers and financial advisors, and between them they would smell a rat. At the end of this stage, one of the swindlers has met a
 potential mark and begun to establish a friendly relationship.
  
-2. Playing the con for him
+## 2. Playing the con for him
 
 
 When the mark gets off the train, one of the swindlers offers to show him around town (in this olde worlde setting the mark is male, for sure). There will be talk of business opprtunities, but this is just seting the stage. The point is to establish trust.
 
  
-3. Roping the mark
+## 3. Roping the mark
  
 In the next stage the mark is passed from the first swindler to a second one, who will take over. The point of this stage is to establish the second swindler as fabulously successful, and to make the mark want to work with him and share in the success.
  
-4. Telling him the tale
+## 4. Telling him the tale
  
 At this stage, the mark isn't sure of the basis for the second swindlers success, but is curious and wants in on the secret. The mark may suggest collaboration, but at this stage the swindler does not take up the suggestion, and will typically let drop that his success might be a bit shady. 
 This only enhances the mark's interest and prepares him for the swindler's eventual and apparently reluctant willingness to let him in on the scheme.
  
-5. Giving him the convincer
+## 5. Giving him the convincer
  
 Now the swindler *shows* the mark that the scheme works, by making a bit of money for him. Most likely, the con men never hand over the money that has
 been made, but immediately offer to reinvest it. The mark still hasn't invested any of his own money, but feels like he has, and is deeply involved.
 At this point it is helpful if the con men can also make the mark feel privileged to be part of their exciting big city world.
  
-6. Giving him the breakdown
+## 6. Giving him the breakdown
  
 Now the swindlers set up the mark to add his own money to the scheme. They may do this in a group, with the others swindlers apparently 
 contributng to the scheme run by the central character. If done well, this can acclimatize the mark to the sums of money involved and the 
 steps that might be needed to get them. Expect the swindlers to be getting and waving around bank draftes
  
-7. Putting him on the send
+## 7. Putting him on the send
  
 In the old days, there was a delicate step where the mark had to go home and realize assets in order to contribute to the scheme. 
 This is a risky moment for the con-men, because the mark will be back in contact within friends and family and might gain a realistic perspective on what is going on
  
-8. Taking off the touch
+## 8. Taking off the touch
  
 In the penultimate stage, the mark invests his own substantial assets in the scheme, which may appear to succeed, but is in fact a sham. The script calls for a final hitch that prevents the expected fabulous profits from coming to the mark. 
  
-9. Blowing him off
+## 9. Blowing him off
 
 This is the final stage, the goal is to let the mark down gently.
 If it works well, the mark doesn't even realize that there was a swindle, and thinks that everything that happened is just bad luck. The con artists benefit from this, because the mark has no reason to pursue them for retribution, but sees them as fellow victims.
@@ -86,6 +86,9 @@ From the perspective of the con artists, the challenge is to delicately lead the
 
 ## Back to Chat GPT?
 
-OK, what about Chat GPT? Placing myself as a potential mark, I find myself at stage 3 or 4. I am tempted to believe that Open AI is capable of somehow realizing fantastic profits, but it is mysterious how this is going to happen. Since I want AI to succeed, preferably in a way that is different from the advertising dependent successes of the past decade, I have begun to explore ways in which __my business__ could use this exciting new thing. Open AI hasn't asked me for anything yet. If I am gullible, I might think that Open AI has delivered the convincer, and we are actually at stage 5. I am starting to think that my business can't __not__ invest in a deeper collaboration with Open AI. If the whole thing is a scam, I am on the edge of a tight spot. 
+OK, what about Chat GPT? Placing myself as a potential mark, with an existing business, I find myself at stage 3 or 4. I am tempted to believe that Open AI is capable of somehow realizing fantastic profits, but it is mysterious how this is going to happen. Since I want AI to succeed, preferably in a way that is different from the advertising dependent successes of the past decade, I have begun to explore ways in which __my business__ could use this exciting new thing. Open AI hasn't asked me for anything yet. If I am gullible, I might think that Open AI has delivered the convincer, and we are actually at stage 5. I am starting to think that my business can't __not__ invest in a deeper collaboration with Open AI. If the whole thing is a scam, I am on the edge of a tight spot. 
 
-Now, I'm not saying it is a scam, but if it were, that is where we would be.
+Now, I'm not saying it is a scam, but if it were, that is where we would be. Open AI has no business idea or product that will make money by helping. There are some obvious, non-fantasy business cases for Chat GPT, such as the provision of plausible but meaning-free text on more or less any topic. Search engine optimizers will jump at the chance to fill their sites with text that is difficult to distinguish from genuinely valuable content. Lazy students will definitely find it easier to generate plausible responses for assignments that they don't want to do, or about material that they can't be bothered to learn. Chat GPT is not a patch on David Foster Wallace or Cormac McCarthy, but it can generate text that is agreeably weird. If these are the use cases that Open AI is after, I would say ``Have at it'', but that's not going to generate fabulous profits, and in any case any success would be pretty transient, especially in the first two applications, which are arms races between fakers and detectors of fakery. No cons involved there, I think.
+
+Where there might be a con is if Chat GPT suckers the providers of educational materials, or legal search, or writing help into a dependence on their tools. Then we might be moving from stage 5 to stage 6, we might not be directly contributing money, but we would contributing subject expertise,  engagement and product design. Also, in this scenario, if the products, contrary to my personal expectations, actually work, stages 7, 8 and 9 are particularly horrible, since we finsh with a long-term dependency on Open AI, not a graceful let down and an acceptance of sunk resources. If the products __don't__ work, the simple version of stage 9 applies and we retreat, perhaps chastened, to our small towns.
+
