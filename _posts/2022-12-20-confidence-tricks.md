@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is Chat GPT a confidence trick?"
-date: 2000-03-30 12:41:00 EST
+date: 2020-12-20
 categories: nlp chatgpt
 ---
 ## Confidence tricks
