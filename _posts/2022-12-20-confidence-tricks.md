@@ -102,7 +102,10 @@ From the perspective of the con artists, the challenge is to delicately lead the
 The con works, if it works, because it induces the mark to fall prey to a panoply of human weaknesses. These include:
 
  1. Optimism. If the mark didn't believe that the scheme had a chance of success, he would pull out before committing his own resources. 
- 2. 
+ 2. Sociability. The swindlers have carefully created a social world for the mark. We naturally want to please and fit in with the people we are with.
+ 3. Determination and commitment. Depending on how well  "blowing him off" was executed, the mark may have an inkling that something is wrong. But since determination is a virtue, he may stick with the plan despite his doubts. The so-called "sunk cost fallacy" may hold him to this: he has expended a fair amount of effort and money so far, and giving up now would feel like an admission of having made a mistake.
+ 4. Feelings of competence. The con is set up so that the mark feels as if he is in charge, understands the situation and is driving the process. None of these things are true. In fact the mark is a mark precisely because he doesn't recognize that the situation he is in requires skills that he doesn't actually have in sufficient measure.
+ 5. Wishful thinking. Everyone is attracted by the idea of a new life in a new and better world, so is vulnerable to promises that the scheme will deliver such a thing. In the old-fashioned world, this was the combination of the reality of an exciting big city and the prospect of astounding future success in that millieu. This kind of promise works especially well if the world in general seems to be in rapid transition, which, in the modern world, is certainly an impression promoted by 24-hour access to real-time internet news.
 
 
 ## Back to Chat GPT?
