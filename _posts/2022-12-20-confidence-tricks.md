@@ -15,6 +15,8 @@ as easy as it once was to turn up in some remote place and claim to be a medical
 the time, have meaningful interactions with people whom they have never met and never expect to meet. The possibilities for deception are endless, and some 
 of them enable confidence tricks.
 
+In a modern setting, the victim of a confidence trick (the mark) need not be an individual. It could be a company that is induced to take actions that are not necessarily in its interest. The dynamics are similar, because companies are made of people, and the corporate environment does not prevent them from falling for modernized versions of the con artists old tricks. 
+
 ## Chat GPT
 
 Chat GPT is a so-called _generative ai_ system that has created a lot of excitement. It can produce written text that is a very good match, in terms of style, 
@@ -56,32 +58,49 @@ This only enhances the mark's interest and prepares him for the swindler's event
 Now the swindler *shows* the mark that the scheme works, by making a bit of money for him. Most likely, the con men never hand over the money that has
 been made, but immediately offer to reinvest it. The mark still hasn't invested any of his own money, but feels like he has, and is deeply involved.
 At this point it is helpful if the con men can also make the mark feel privileged to be part of their exciting big city world.
+
+The context of the train ride and the big city is important, because the mark only has a short time to spend in the city. Unless he moves fast, he might miss the opportunity. 
+
+In the modern context, there any number of ways in which a company playing the role of the mark can be induced to believe that decisions must be made fast, even if this would require the usual controls and sanity checks to be bypassed.
  
 ## 6. Giving him the breakdown
  
 Now the swindlers set up the mark to add his own money to the scheme. They may do this in a group, with the others swindlers apparently 
 contributng to the scheme run by the central character. If done well, this can acclimatize the mark to the sums of money involved and the 
-steps that might be needed to get them. Expect the swindlers to be getting and waving around bank draftes
- 
+steps that might be needed to get them. Expect the swindlers to be getting and waving around bank drafts. 
+
+The modern equivalent of this might be a flood of compelling publicity suggesting that someone somewhere is hugely benefitting from the new and exciting scheme. Things move fast these days, so companies who want to be in on the act can't afford to be cautious, they have to make their move now. Where have we heard this kind of talk before?
+
+
 ## 7. Putting him on the send
  
 In the old days, there was a delicate step where the mark had to go home and realize assets in order to contribute to the scheme. 
-This is a risky moment for the con-men, because the mark will be back in contact within friends and family and might gain a realistic perspective on what is going on
+This is a visit to a hometown bank, where there is a deposit box containing valuable things that the mark
+controls.
+This is a risky moment for the con-men, because the mark will be back in contact within friends and family and might gain a realistic perspective on what is going on. 
+
+In the old-fashioned setting, the commitment is financial, and the assets in question are dollars and cents sitting in a hometown bank. The modern version of this may involve a broader conception of what kind of asset is committed. For example, a modern company playing the role of a mark may have engineering and product developments that it has choices about how to direct.
+The modern equivalent of the swindlers may wish to influence the direction of these resources, moving them in a direction that the mark might not otherwise choose. 
  
 ## 8. Taking off the touch
  
-In the penultimate stage, the mark invests his own substantial assets in the scheme, which may appear to succeed, but is in fact a sham. The script calls for a final hitch that prevents the expected fabulous profits from coming to the mark. 
+In the penultimate stage, the mark invests his own substantial assets in the scheme, which may appear to succeed, but is in fact a sham. The script calls for a final hitch that prevents the expected fabulous profits from coming to the mark. In the modern setting, the company playing the role of the mark commits resources in the hope of developing a product that works well with the semi-magical resources provided by it potential partners. Even if the effort succeeds, the first company may now be locked in to an unequal relationship with its partners, since their product would depend on wbat is provided by the partners.
  
 ## 9. Blowing him off
 
 This is the final stage, the goal is to let the mark down gently.
 If it works well, the mark doesn't even realize that there was a swindle, and thinks that everything that happened is just bad luck. The con artists benefit from this, because the mark has no reason to pursue them for retribution, but sees them as fellow victims.
 
-### What we learnt
+### What we learned
 
 Maurer's description of the long con includes elements that will be absent or not needed in the present day. The key features are that the mark is set up to participate, willingly and enthuiastically, in a scheme that turns out to be not at all in his interest, and that the swindlers benefit directly from the mark's decision to invest. We may be able to spot analogues of the stages given above, in which case it is reasonable to suppose that we are dealing with some kind of con.
 
 From the perspective of the con artists, the challenge is to delicately lead the mark through a series of psychological states that predispose him to make the decisions that the script requires. The details differ, but the principles are eternal.
+
+The con works, if it works, because it induces the mark to fall prey to a panoply of human weaknesses. These include:
+
+ 1. Optimism. If the mark didn't believe that the scheme had a chance of success, he would pull out before committing his own resources. 
+ 2. 
 
 
 ## Back to Chat GPT?
