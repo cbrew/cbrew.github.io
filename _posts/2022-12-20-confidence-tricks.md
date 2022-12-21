@@ -73,6 +73,7 @@ In the penultimate stage, the mark invests his own substantial assets in the sch
 
 
 In the final stage, the goal is to let the mark down gently.
+Maurer calls this final stage "blowing him off". I don't know why.
 If it works well, the mark doesn't even realize that there was a swindle, and thinks that everything that happened is just bad luck. The con artists benefit from this, because the mark has no reason to pursue them for retribution, but sees them as fellow victims. In the modern setting, the goal is to make the marks feel that the decisions that they made were ordinary business decisions, and to avoid bad blood from the feeling of being manipulated.
 
 ### What we learned
