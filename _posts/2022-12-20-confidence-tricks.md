@@ -32,6 +32,7 @@ Perhaps this is all above board. Open AI would not be the first company to stron
 
 Or perhaps Open AI is fooling itself. The company is a non-profit with lofty goals related to AI safety.
 > OpenAI’s mission is to ensure that artificial general intelligence (AGI)—by which we mean highly autonomous systems that outperform humans at most economically valuable work—benefits all of humanity. [Mission statement](https://openai.com/about/)
+
 This mission makes much more sense if AGI is a realistic and imminent prospect than if it isn't.
 The mission is of a piece with the philosophies of __longtermism__ and __effective altruism__, which mix concerns about the future of human society with dogmatic views about how that society will and/or should evolve. OpenAI board members clearly do hold such views. Speaking as a long-term skeptic about Utopian schemes, I find longtermism alarming, because it is naive about the consequences of concentrating power in the hands of supposedly well-meaning philanthropists. Most people who acquire that kind of power run the risk of abusing it, either intentionally or unintentionally. To be fair, the mission does mention benefit to all: I would still be happier if it were more clearly supportive of the idea of decentralized and democratic decision making.
 In any event, if this line of thinking is correct, we are freed from the need to ascribe bad motives to Open AI. 
