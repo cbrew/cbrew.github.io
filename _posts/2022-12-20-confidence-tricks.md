@@ -17,6 +17,8 @@ of them enable confidence tricks.
 
 In a modern setting, the victim of a confidence trick (the mark) need not be an individual. It could be a company that is induced to take actions that are not necessarily in its interest. The dynamics are similar, because companies are made of people, and the corporate environment does not prevent them from falling for modernized versions of the con artists old tricks. 
 
+I believe that there are parallels between what Open AI is doing with its new product called Chat GPT and what con artists have always done. I do not necessarily believe that Open AI is attempting to con us, but I do think it is tapping into the same human weaknesses that con artists exploit. Essentially, it is relying on our credulity, optimism and natural social instincts, and hoping to benefit. 
+
 ## Chat GPT
 
 Chat GPT is a so-called _generative ai_ system that has created a lot of excitement. It can produce written text that is a very good match, in terms of style, 
