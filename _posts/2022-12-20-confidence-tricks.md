@@ -49,16 +49,16 @@ David Maurer, an academic writing in the 1950s. outlined the stages of a con. Im
 a victim during and after a train journey from a small town to a bigger city. The picaresque language is dated, as is the setting, but the concepts haven't changed in 70 years.
 
 
-The con artists' first step to find a mark who it is worth swindling, but who maybe lacks the network and resources to avoid the con. A very rich mark would probably have access to lawyers and financial advisors, and between them they would smell a rat. At the end of this stage, one of the swindlers has met a potential mark and begun to establish a friendly relationship.
+The con artists' first step to find a mark who it is worth swindling, but who maybe lacks the network and resources to avoid the con. A very rich mark would probably have access to lawyers and financial advisors, and between them they would smell a rat. At the end of this stage, one of the swindlers has met a potential mark and begun to establish a friendly relationship. The swindler is not the central player in the con, but an assistant.
  
-When the mark gets off the train, one of the swindlers offers to show him around town (in this olde worlde setting the mark is male, for sure). There will be talk of business opprtunities, but this is just setting the stage. 
-The point is to establish trust. Then the first swindler introduces a confederate, 
+When the mark gets off the train, the assistant offers to show him around town (in this olde worlde setting the mark is male, for sure). There will be talk of business opprtunities, but this is just setting the stage. 
+The point is to establish trust. Then the assistant introduces the leader of the group, 
 whose role is to represent to the mark the possibility of extreme and magical success, by means of a scheme that is mysterious and perhaps a bit shady.
-The next step is to *show* the mark that the scheme works, by making a bit of money for him. 
+The next step is for the leader to *show* the mark that the scheme works, by making a bit of money for him. 
 Maurer calls this stage __the convincer__.
 If the scheme is a complete sham, the money made for the mark is an illusion.
 If on the other hand the scheme has an element of reality, perhaps it does bring in some money, but isn't as scalable as the mark thinks.
-Either way, the mark'a newly acquired money is immediately taken back into the scheme and 
+Either way, the mark's newly acquired money is immediately taken back into the scheme and 
 __reinvested__. 
 The mark still hasn't really invested any of his own money, but feels like he has, because he feels ownwership of the money that was made and then reinvested.
 At this point it is helpful if the con artists can also make the mark feel privileged to be part of their exciting big city world. You can imagine how a company using the latest AI might play this game in order to draw in partner companies with more solid but less sexy products.
