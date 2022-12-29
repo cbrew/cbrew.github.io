@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Chat GPT does formal language theory"
+date: 2022-12-29
+categories: nlp chatgpt
+---
+
 # Question
 
 what is a multiple context free grammar?
@@ -11,9 +18,12 @@ An MCFG is similar to a CFG, but it allows multiple nonterminals on the right-ha
 
 A -> B C D
 
-This production rule specifies that the nonterminal A can be replaced by the sequence of nonterminals B, C, and D. This is in contrast to a CFG, in which a production rule can only have a single nonterminal on the right-hand side.
+This production rule specifies that the nonterminal A can be replaced by the sequence of nonterminals B, C, and D. This is in contrast to a CFG, in which a production rule can only have a single nonterminal on the right-hand side. 
+
+__This is wrong. The example rule is a completely ordinary context-free grammar rule.__
 
 MCFGs are more powerful than CFGs because they can describe languages that cannot be described by CFGs. However, they are also more difficult to parse, since parsing algorithms for CFGs do not work for MCFGs. As a result, MCFGs are not as widely used as CFGs.
 
 
+This production rule specifies that the nonterminal A can be replaced by the sequence of nonterminals B, C, and D. This is in contrast to a CFG, in which a production rule can only have a single nonterminal on the right-hand side. 
 
