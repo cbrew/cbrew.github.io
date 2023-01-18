@@ -10,7 +10,7 @@ categories: nlp chatgpt sonnets
 Write a sonnet about Columbus, Ohio
 
 
-``
+```
 Columbus, Ohio, a city of great renown,
 Where Buckeyes and scarlet reign supreme,
 A bustling metropolis that's found
@@ -28,11 +28,11 @@ With opportunities to pave the way.
 
 Columbus, Ohio, a city bright,
 A shining example of what's right.
-``
+```
 
 write a sonnet in German about Columbus, Ohio
 
-``
+```
 Columbus, Ohio, eine Stadt berühmt,
 Wo Buckeyes und Scarlet herrschen hoch,
 Eine pulsierende Metropole, erfüllt
@@ -50,11 +50,11 @@ Mit Chancen, die den Weg bereiten viel.
 
 Columbus, Ohio, eine Stadt erstrahlt,
 Ein leuchtendes Beispiel, was Gutes schafft.
-``
+```
 
 Write a sonnet in French about Columbus, Ohio
 
-``
+```
 Columbus, Ohio, une ville célèbre,
 Où Buckeyes et rouge régnent en maître,
 Une métropole bouillonnante, à l'heure
@@ -72,12 +72,12 @@ Avec des opportunités à saisir.
 
 Columbus, Ohio, une ville éclatante,
 Un exemple brillant de ce qui est juste.
-``
+```
 
 
 Write a sonnet in French about Ann Arbor, Michigan
 
-``
+```
 Ann Arbor, Michigan, ville universitaire,
 Où les étudiants et la culture se mêlent,
 Un lieu où les rues sont animées, toujours en fête,
@@ -95,11 +95,11 @@ Une ville qui ne cesse de surprendre.
 
 Ann Arbor, Michigan, ville de l'éducation,
 Où l'on apprend, s'épanouit et s'émerveille en toute occasion.
-``
+```
 
 Write a sonnet in German about Ann Arbor, Michigan
 
-``
+```
 Ann Arbor, Michigan, eine Stadt der Wissenschaft,
 Wo Studierende und Kultur sich vereinen,
 Ein Ort, wo die Straßen voller Leben sind, immer im Reichtum
@@ -117,11 +117,11 @@ Eine Stadt, die immer wieder überrascht.
 
 Ann Arbor, Michigan, die Stadt der Bildung,
 Wo man lernt, sich entfaltet und sich in jeder Hinsicht verwundert.
-``
+```
 
 Write a sonnet about Ann Arbor Michigan
 
-``
+```
 Ann Arbor, Michigan, a city of great renown
 Where students and culture blend and intertwine
 A place where streets are always bustling and alive
@@ -139,4 +139,4 @@ A city that never fails to amaze and astound.
 
 Ann Arbor, Michigan, a city of education
 Where one can learn, grow, and be inspired without hesitation.
-``
+```
