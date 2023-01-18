@@ -1,8 +1,15 @@
-
+---
+layout: post
+title: "Chat GPT does poetry better now"
+date: 2023-01-18
+categories: nlp chatgpt sonnets
+---
 
 
 
 Write a sonnet about Columbus, Ohio
+
+
 ``
 Columbus, Ohio, a city of great renown,
 Where Buckeyes and scarlet reign supreme,
@@ -24,6 +31,7 @@ A shining example of what's right.
 ``
 
 write a sonnet in German about Columbus, Ohio
+
 ``
 Columbus, Ohio, eine Stadt berühmt,
 Wo Buckeyes und Scarlet herrschen hoch,
@@ -43,7 +51,9 @@ Mit Chancen, die den Weg bereiten viel.
 Columbus, Ohio, eine Stadt erstrahlt,
 Ein leuchtendes Beispiel, was Gutes schafft.
 ``
+
 Write a sonnet in French about Columbus, Ohio
+
 ``
 Columbus, Ohio, une ville célèbre,
 Où Buckeyes et rouge régnent en maître,
@@ -64,9 +74,10 @@ Columbus, Ohio, une ville éclatante,
 Un exemple brillant de ce qui est juste.
 ``
 
-``
+
 Write a sonnet in French about Ann Arbor, Michigan
 
+``
 Ann Arbor, Michigan, ville universitaire,
 Où les étudiants et la culture se mêlent,
 Un lieu où les rues sont animées, toujours en fête,
