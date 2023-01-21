@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chat GPT gives advice on how to use a proof assistant"
-date: 2023-01-31
+date: 2023-01-21
 categories: nlp chatgpt coq formal_methods
 ---
 
