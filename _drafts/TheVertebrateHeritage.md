@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction to the Vertebrate Heritage"
-categories: science nlp nlu compling
+categories: science vertebrateheritage
 ---
 
 # Introduction
