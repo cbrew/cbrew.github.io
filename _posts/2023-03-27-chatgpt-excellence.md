@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chat GPT simulates a Linux file structure and fills in the contents."
-date:   
+date: 2023-04-16  
 categories: ChatGPT
 ---
 
