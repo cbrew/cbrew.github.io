@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Chat GPT Warning Labels for safe things"
+date: 2023-04-16
+categories: nlp chatgpt daiologue.
+---
+
+# Warning labels for safe things.
 
 
 Warning: Consumption of this chocolate may result in a heightened state of pleasure and a possible addiction to its deliciousness.
