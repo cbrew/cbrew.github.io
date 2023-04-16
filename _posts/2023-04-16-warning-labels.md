@@ -1,9 +1,4 @@
----
-layout: post
-title: "Chat GPT Warning Labels for safe things"
-date: 2023-04-16
-categories: nlp chatgpt daiologue.
----
+
 
 # Warning labels for safe things.
 
