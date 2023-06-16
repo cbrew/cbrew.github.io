@@ -1,8 +1,16 @@
+---
+layout: post
+title:  "Talking dogs and Chatbots?"
+date: 2023-06-16
+categories: ChatGPT chatbots
+---
+
+
 Alex Monaghan posted on linked in
 
-| LaMDa tells us it's sentient, and people believe it because it sounds convincing, even though we know this is complete nonsense. ChatGPT tells us there is legal precedent, and we believe it because its response is beautifully formatted and referenced, even though it has made up all the data. A good UI is no guarantee of good execution.
+> LaMDa tells us it's sentient, and people believe it because it sounds convincing, even though we know this is complete nonsense. ChatGPT tells us there is legal precedent, and we believe it because its response is beautifully formatted and referenced, even though it has made up all the data. A good UI is no guarantee of good execution.
 
-| I can throw a ball for my dog, and tell it to fetch the ball, and order me a pizza before it comes back. The dog will happily disappear, and return with the ball. Should I assume that the pizza has been ordered? No!
+> I can throw a ball for my dog, and tell it to fetch the ball, and order me a pizza before it comes back. The dog will happily disappear, and return with the ball. Should I assume that the pizza has been ordered? No!
 
 I replied
 
