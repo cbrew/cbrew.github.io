@@ -16,7 +16,7 @@ Andras said:
 I agree that LLMs and their behavior admit of crisp, clean definitions. I am not denying that. The leakage I am talking about is the breakdown of abstractions that are
 typically found in traditional information systems. They come under some degree of stress when one tries to move from a one-shot task-satisfaction scenario to a richer conversational interaction.
 The fundamental problem is that the system's users are erratic and unpredictable. Conversational systems have always had a hard time with this. It's hard to make a person seem enough like a software
-component. My point is that when we are trying to do this, and we want to mirror ChatGPT's relative naturalness, by using an LLM, you introduce another erratic component into the system.
+component. My point is that when we are trying to do this, and we want to mirror ChatGPT's relative naturalness, by using an LLM, we introduce another erratic component into the system.
 
 Here's why I say that LLMs are erratic. Autoregressive text transformers are stateless stimulus-response engines that map from a text input to a text output. In that sense they are all equivalent to large look-up tables. The engine behind ChatGPT is no exception.
 But, feeding a lightly-curated version of the conversational history to such an engine, and returning a lightly-curated version of the output as next contribution made by the simulated agent.  This works really well for the
