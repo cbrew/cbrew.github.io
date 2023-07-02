@@ -19,7 +19,7 @@ The fundamental problem is that the system's users are erratic and unpredictable
 component. My point is that when we are trying to do this, and we want to mirror ChatGPT's relative naturalness, by using an LLM, we introduce another erratic component into the system.
 
 Here's why I say that LLMs are erratic. Autoregressive text transformers are stateless stimulus-response engines that map from a text input to a text output. In that sense they are all equivalent to large look-up tables. The engine behind ChatGPT is no exception.
-But, feeding a lightly-curated version of the conversational history to such an engine, and returning a lightly-curated version of the output as next contribution made by the simulated agent.  This works really well for the
+But the overall system works by feeding a lightly-curated version of the conversational history to such an engine, and returning a lightly-curated version of the output as next contribution made by the simulated agent.  This works really well for the
 particular use-case of a semi-informative chat engine. Extra training and prompting can even make systems of this type seem helpful, cooperative, responsive to interlocutor goals, and all that. They do much of what a designed dialogue system does, 
 but unreliably. You can ask them to do what you want, and they often will, but sometimes won't. And when they don't, you will be none the wiser.
 
