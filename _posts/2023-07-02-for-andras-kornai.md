@@ -25,5 +25,5 @@ but unreliably. You can ask them to do what you want, and they often will, but s
 
 Systems like Staffan Larsson's Issue-Based Dialogue Managers have a lot of useful ideas for how to manage a task-oriented 
 conversation about an an information system made up of components that have sensible and readily enumerable failure modes. Sadly, viewed as software components, LLMs are almost as erratic and unpredictable as people. How do you give 
-reliable conversational feedback when the "subsystems" on which you rely might not even try to do what they are supposed to. The good news is that common-sense methods of dealing with unreliable people apply. The bad news is that this 
+reliable conversational feedback when the "subsystems" on which you rely might not even try to do what they are supposed to? The good news is that common-sense methods of dealing with unreliable people apply. The bad news is that this 
 is what automation was supposed to get us away from.
