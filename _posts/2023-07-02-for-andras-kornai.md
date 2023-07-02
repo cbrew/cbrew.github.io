@@ -1,5 +1,3 @@
-2023-07-02-for-andras-kornai
-
 ---
 layout: post
 title:  "Managing (dialogues with) unreliable things"
