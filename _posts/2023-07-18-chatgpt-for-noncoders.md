@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "ChatGPT for non-coders"
+date: 2023-07-02
+categories: ChatGPT chatbots
+---
 ## Answer to a question amounting to "Will ChatGPT write everything for me. I don't know how to code
 
 The hardest part of programming is not the code. The hard part is learning how to break a task down into organized, explicit logical steps that do the job you want. This takes time and effort for everyone. 
