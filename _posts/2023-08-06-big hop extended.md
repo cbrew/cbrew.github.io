@@ -1,4 +1,9 @@
-i
+---
+layout: post
+title:  More on the "The Big Hop" Chat GPT 4 "helps" with my bunny Noir
+date: 2023-08-06
+categories: ChatGPT chatbots
+---
 # Original story (see https://medium.com/@christopher.brew/the-big-hop-60b22914f9d2) 
 
 I should’ve known it wasn’t going to work: Jess is the kind of doe who expects a lot of lettuce, and I’m not the kind of buck who’s ever going to be able to give her that. Not like Roger or Big Pete. My sire was a small-time vegetable pusher: swedes and carrots mainly, not the big stuff. Most of what he sold was even legal if you had the money and you knew where to find it. But if you do what he does, you can’t be choosy about the company you keep. So it wasn’t much of a surprise when he fell out with the Big P. over a kohlrabi shipment and had to leave town.
@@ -42,3 +47,40 @@ On chilly nights, Laine would sit beside me, her warm fur comforting against my 
   2. It's seething with cliche.Some of the right style. Sone of the wrong. Life is no fairytale at the wrong end of the burrow.
   3. The "moral" of the extended story, such as it is, is trite and obnoxiously heart-warming. Do better, GPT4!
   4. Absoutely not. The narrator (Wayne) ran a mile when they called him a storyteller, and has no interest in discovering who he really is. He's the barman at Shady Hazel's, definitely still at the wrong end of the burrow. It's not quiet, even less so when he's playing bass and sax with his Bunny Seger tribute band.
+
+# Human machine collaboration. 
+
+So I said:
+
+That's a bit too trite and heartwarming. Try again please
+
+And GPT4 responded with a much better effort, which I love. :
+
+
+Alright, let's take a different approach:
+
+After that harrowing incident, things went downhill pretty fast. My reputation took a hit in the forest's underground. I wasn't seen as the reliable bouncer anymore, but rather the buck who got played by Jessica Rabbit. I tried getting work in other bars, but they wouldn’t hire me. The whispers became shouts and the pointing never seemed to stop. In this world, reputation was everything. Lose that, and you're done.
+
+Desperate for some cash, I started working in the seedy side of the forest. Doing jobs for the very animals I once kept at bay. My conscience was heavy, but so was the weight of my empty stomach.
+
+Laine tried reaching out to me. Said she could offer me some work, but I knew it would be charity. My pride wouldn't allow it. Jane, she kept her distance. Perhaps she felt guilty about the message she delivered, or maybe she was scared of getting involved further. It was a tangled web, and everyone was trying to avoid getting caught.
+
+One evening, as I wandered around the outskirts of the burrow, I ran into Mopsy. She wasn't the same doe I remembered from fifth-grade. Her fur was matted, her eyes sunken, and she had a twitch in her leg. The forest had been harsh on her, and she had faced her share of battles.
+
+She told me about a new underground casino run by Big Pete. It was the latest talk of the forest. High stakes, and a game for only those who dared. Mopsy said it could be my ticket back to respect, or at least a way to settle scores.
+
+With nothing left to lose, I decided to take the risk. The casino was everything Mopsy had described - vibrant, loud, and the scent of danger in the air. I took to the card tables, with every intention to win big or lose it all.
+
+As the night wore on, I found myself face-to-face with none other than Big Pete. He smirked, "Fancy seeing you here."
+
+The cards were dealt, and with every round, the stakes got higher. By sunrise, I had not only reclaimed my respect but had Big Pete indebted to me. But with power came enemies, and I knew I had just made one too many.
+
+The forest had changed me. The young buck, once naive and eager to help, was now a master manipulator, skilled at the art of survival. I had become a legend in the underground world, but at what cost?
+
+Laine tried to reconnect, but I kept her at arm's length, for her safety. I had climbed too deep into the forest's underworld, and there was no turning back. My story wasn't about redemption; it was a tale of survival, ambition, and the blurred lines between right and wrong.
+
+
+
+# How did I do?
+
+  1. The last paragraph of mine, about the badgers could do with a fix. I'll ask GPT4...
