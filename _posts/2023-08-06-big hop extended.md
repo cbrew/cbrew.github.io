@@ -19,7 +19,7 @@ I’m not as smart as I think I am, I should’ve known Jessica Rabbit was a Rab
 
 # GPT4 response to "Extend this" followed by the story
 
-  ```
+>
 I holed up at Zane’s for a few days, still nursing my wounds from the badger incident. “Jess? Of all does in the forest, Jess?” Zane asked, munching on his favorite beetroot. “She's trouble. Always has been.”
 
 “I just thought I could help her, you know. Give her what she needs. She seemed genuine.”
@@ -43,7 +43,7 @@ Years passed. I grew older, my fur grayer. Eventually, I hung up my bouncer jack
 On chilly nights, Laine would sit beside me, her warm fur comforting against my side, reminding me of the life I almost lost, the friends I gained, and the lessons I learned along the way. But most importantly, that sometimes the most dangerous adventures are the ones that
 lead us to discover who we truly are.
 
-```
+
 
 # How did GPT4 do?
 
@@ -60,7 +60,7 @@ That's a bit too trite and heartwarming. Try again please
 
 And GPT4 responded with a much better effort, which I love.
 
-  ```
+>
 Alright, let's take a different approach:
 
 After that harrowing incident, things went downhill pretty fast. My reputation took a hit in the forest's underground. I wasn't seen as the reliable bouncer anymore, but rather the buck who got played by Jessica Rabbit. I tried getting work in other bars, but they wouldn’t hire me.
@@ -84,7 +84,7 @@ The cards were dealt, and with every round, the stakes got higher. By sunrise, I
 The forest had changed me. The young buck, once naive and eager to help, was now a master manipulator, skilled at the art of survival. I had become a legend in the underground world, but at what cost?
 
 Laine tried to reconnect, but I kept her at arm's length, for her safety. I had climbed too deep into the forest's underworld, and there was no turning back. My story wasn't about redemption; it was a tale of survival, ambition, and the blurred lines between right and wrong.
-  ```
+
 
 
 # How did I do?
