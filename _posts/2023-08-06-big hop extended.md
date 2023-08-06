@@ -19,6 +19,7 @@ I’m not as smart as I think I am, I should’ve known Jessica Rabbit was a Rab
 
 # GPT4 response to "Extend this" followed by the story
 
+  ```
 I holed up at Zane’s for a few days, still nursing my wounds from the badger incident. “Jess? Of all does in the forest, Jess?” Zane asked, munching on his favorite beetroot. “She's trouble. Always has been.”
 
 “I just thought I could help her, you know. Give her what she needs. She seemed genuine.”
@@ -39,7 +40,10 @@ Though I never saw Jess again, her shadow loomed over me. From time to time, I�
 
 Years passed. I grew older, my fur grayer. Eventually, I hung up my bouncer jacket and moved to a quieter burrow. I became the village storyteller, recounting tales of my adventures and near misses. Kids would gather around, their eyes wide, hanging on to every word.
 
-On chilly nights, Laine would sit beside me, her warm fur comforting against my side, reminding me of the life I almost lost, the friends I gained, and the lessons I learned along the way. But most importantly, that sometimes the most dangerous adventures are the ones that lead us to discover who we truly are.
+On chilly nights, Laine would sit beside me, her warm fur comforting against my side, reminding me of the life I almost lost, the friends I gained, and the lessons I learned along the way. But most importantly, that sometimes the most dangerous adventures are the ones that
+lead us to discover who we truly are.
+
+```
 
 # How did GPT4 do?
 
