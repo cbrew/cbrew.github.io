@@ -19,28 +19,25 @@ I’m not as smart as I think I am, I should’ve known Jessica Rabbit was a Rab
 
 # GPT4 response to "Extend this" followed by the story
 
->
-I holed up at Zane’s for a few days, still nursing my wounds from the badger incident. “Jess? Of all does in the forest, Jess?” Zane asked, munching on his favorite beetroot. “She's trouble. Always has been.”
+> I holed up at Zane’s for a few days, still nursing my wounds from the badger incident. “Jess? Of all does in the forest, Jess?” Zane asked, munching on his favorite beetroot. “She's trouble. Always has been.”
+> “I just thought I could help her, you know. Give her what she needs. She seemed genuine.”
+> Zane looked at me sympathetically, “Man, you’re a burrow guard, not a private investigator. Your heart's too big for your own good.” He was right. I had always let my emotions get the better of me, and this time it almost cost me my tail.
 
-“I just thought I could help her, you know. Give her what she needs. She seemed genuine.”
+> While I was recuperating, I got a visit from Laine. “Heard you got mixed up with Jessica Rabbit,” she said with a smirk.
 
-Zane looked at me sympathetically, “Man, you’re a burrow guard, not a private investigator. Your heart's too big for your own good.” He was right. I had always let my emotions get the better of me, and this time it almost cost me my tail.
+> “Yeah. And don’t start with ‘I told you so’.”
 
-While I was recuperating, I got a visit from Laine. “Heard you got mixed up with Jessica Rabbit,” she said with a smirk.
+> She chuckled, “Wouldn’t dream of it. Just wanted to tell you that you might wanna stay away from the bars for a while. Big Pete's got eyes everywhere.”
 
-“Yeah. And don’t start with ‘I told you so’.”
+> We spent hours talking about old times, and it felt good to reminisce. It was clear she had feelings for me, and maybe, I had always had a soft spot for her too.
 
-She chuckled, “Wouldn’t dream of it. Just wanted to tell you that you might wanna stay away from the bars for a while. Big Pete's got eyes everywhere.”
+> A few days later, I was out for a stroll, when I bumped into Jane. “I have a message from Jess,” she whispered, nervously looking around. “She says she’s sorry, and that she’s left town for good. You’re safe now.”
 
-We spent hours talking about old times, and it felt good to reminisce. It was clear she had feelings for me, and maybe, I had always had a soft spot for her too.
+> Though I never saw Jess again, her shadow loomed over me. From time to time, I’d hear tales of her escapades, each more dangerous and audacious than the last.
 
-A few days later, I was out for a stroll, when I bumped into Jane. “I have a message from Jess,” she whispered, nervously looking around. “She says she’s sorry, and that she’s left town for good. You’re safe now.”
+> Years passed. I grew older, my fur grayer. Eventually, I hung up my bouncer jacket and moved to a quieter burrow. I became the village storyteller, recounting tales of my adventures and near misses. Kids would gather around, their eyes wide, hanging on to every word.
 
-Though I never saw Jess again, her shadow loomed over me. From time to time, I’d hear tales of her escapades, each more dangerous and audacious than the last.
-
-Years passed. I grew older, my fur grayer. Eventually, I hung up my bouncer jacket and moved to a quieter burrow. I became the village storyteller, recounting tales of my adventures and near misses. Kids would gather around, their eyes wide, hanging on to every word.
-
-On chilly nights, Laine would sit beside me, her warm fur comforting against my side, reminding me of the life I almost lost, the friends I gained, and the lessons I learned along the way. But most importantly, that sometimes the most dangerous adventures are the ones that
+> On chilly nights, Laine would sit beside me, her warm fur comforting against my side, reminding me of the life I almost lost, the friends I gained, and the lessons I learned along the way. But most importantly, that sometimes the most dangerous adventures are the ones that
 lead us to discover who we truly are.
 
 
@@ -61,30 +58,29 @@ That's a bit too trite and heartwarming. Try again please
 
 And GPT4 responded with a much better effort, which I love.
 
->
-Alright, let's take a different approach:
+> Alright, let's take a different approach:
 
-After that harrowing incident, things went downhill pretty fast. My reputation took a hit in the forest's underground. I wasn't seen as the reliable bouncer anymore, but rather the buck who got played by Jessica Rabbit. I tried getting work in other bars, but they wouldn’t hire me.
+> After that harrowing incident, things went downhill pretty fast. My reputation took a hit in the forest's underground. I wasn't seen as the reliable bouncer anymore, but rather the buck who got played by Jessica Rabbit. I tried getting work in other bars, but they wouldn’t hire me.
 The whispers became shouts and the pointing never seemed to stop. In this world, reputation was everything. Lose that, and you're done.
 
-Desperate for some cash, I started working in the seedy side of the forest. Doing jobs for the very animals I once kept at bay. My conscience was heavy, but so was the weight of my empty stomach.
+> Desperate for some cash, I started working in the seedy side of the forest. Doing jobs for the very animals I once kept at bay. My conscience was heavy, but so was the weight of my empty stomach.
 
-Laine tried reaching out to me. Said she could offer me some work, but I knew it would be charity. My pride wouldn't allow it. Jane, she kept her distance. Perhaps she felt guilty about the message she delivered, or maybe she was scared of getting involved further. It was a tangled web, and everyone was
+> Laine tried reaching out to me. Said she could offer me some work, but I knew it would be charity. My pride wouldn't allow it. Jane, she kept her distance. Perhaps she felt guilty about the message she delivered, or maybe she was scared of getting involved further. It was a tangled web, and everyone was
 trying to avoid getting caught.
 
-One evening, as I wandered around the outskirts of the burrow, I ran into Mopsy. She wasn't the same doe I remembered from fifth-grade. Her fur was matted, her eyes sunken, and she had a twitch in her leg. The forest had been harsh on her, and she had faced her share of battles.
+> One evening, as I wandered around the outskirts of the burrow, I ran into Mopsy. She wasn't the same doe I remembered from fifth-grade. Her fur was matted, her eyes sunken, and she had a twitch in her leg. The forest had been harsh on her, and she had faced her share of battles.
 
-She told me about a new underground casino run by Big Pete. It was the latest talk of the forest. High stakes, and a game for only those who dared. Mopsy said it could be my ticket back to respect, or at least a way to settle scores.
+> She told me about a new underground casino run by Big Pete. It was the latest talk of the forest. High stakes, and a game for only those who dared. Mopsy said it could be my ticket back to respect, or at least a way to settle scores.
 
-With nothing left to lose, I decided to take the risk. The casino was everything Mopsy had described - vibrant, loud, and the scent of danger in the air. I took to the card tables, with every intention to win big or lose it all.
+> With nothing left to lose, I decided to take the risk. The casino was everything Mopsy had described - vibrant, loud, and the scent of danger in the air. I took to the card tables, with every intention to win big or lose it all.
 
-As the night wore on, I found myself face-to-face with none other than Big Pete. He smirked, "Fancy seeing you here."
+> As the night wore on, I found myself face-to-face with none other than Big Pete. He smirked, "Fancy seeing you here."
 
-The cards were dealt, and with every round, the stakes got higher. By sunrise, I had not only reclaimed my respect but had Big Pete indebted to me. But with power came enemies, and I knew I had just made one too many.
+> The cards were dealt, and with every round, the stakes got higher. By sunrise, I had not only reclaimed my respect but had Big Pete indebted to me. But with power came enemies, and I knew I had just made one too many.
 
-The forest had changed me. The young buck, once naive and eager to help, was now a master manipulator, skilled at the art of survival. I had become a legend in the underground world, but at what cost?
+> The forest had changed me. The young buck, once naive and eager to help, was now a master manipulator, skilled at the art of survival. I had become a legend in the underground world, but at what cost?
 
-Laine tried to reconnect, but I kept her at arm's length, for her safety. I had climbed too deep into the forest's underworld, and there was no turning back. My story wasn't about redemption; it was a tale of survival, ambition, and the blurred lines between right and wrong.
+> Laine tried to reconnect, but I kept her at arm's length, for her safety. I had climbed too deep into the forest's underworld, and there was no turning back. My story wasn't about redemption; it was a tale of survival, ambition, and the blurred lines between right and wrong.
 
 
 
