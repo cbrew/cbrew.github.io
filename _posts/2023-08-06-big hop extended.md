@@ -48,7 +48,7 @@ lead us to discover who we truly are.
 # How did GPT4 do?
 
   1. It's coherent, and connects to the story. 
-  2. It's seething with cliche.Some of the right style. Sone of the wrong. Life is no fairytale at the wrong end of the burrow.
+  2. It's seething with cliche.Some of the right style. Some of the wrong. Life is no fairytale at the wrong end of the burrow.
   3. The "moral" of the extended story, such as it is, is trite and obnoxiously heart-warming. Do better, GPT4!
   4. Absoutely not. The narrator (Wayne) ran a mile when they called him a storyteller, and has no interest in discovering who he really is. He's the barman at Shady Hazel's, definitely still at the wrong end of the burrow. It's not quiet, even less so when he's playing bass and sax with his Bunny Seger tribute band.
 
