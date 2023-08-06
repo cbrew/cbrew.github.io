@@ -2,7 +2,7 @@
 layout: post
 title:  More on the "The Big Hop" Chat GPT 4 "helps" with my bunny Noir
 date: 2023-08-06
-categories: ChatGPT chatbots
+categories: ChatGPT chatbots bunny noir
 ---
 # Original story (see https://medium.com/@christopher.brew/the-big-hop-60b22914f9d2) 
 
