@@ -56,7 +56,7 @@ That's a bit too trite and heartwarming. Try again please
 
 And GPT4 responded with a much better effort, which I love. :
 
-
+```
 Alright, let's take a different approach:
 
 After that harrowing incident, things went downhill pretty fast. My reputation took a hit in the forest's underground. I wasn't seen as the reliable bouncer anymore, but rather the buck who got played by Jessica Rabbit. I tried getting work in other bars, but they wouldn’t hire me. The whispers became shouts and the pointing never seemed to stop. In this world, reputation was everything. Lose that, and you're done.
@@ -78,9 +78,10 @@ The cards were dealt, and with every round, the stakes got higher. By sunrise, I
 The forest had changed me. The young buck, once naive and eager to help, was now a master manipulator, skilled at the art of survival. I had become a legend in the underground world, but at what cost?
 
 Laine tried to reconnect, but I kept her at arm's length, for her safety. I had climbed too deep into the forest's underworld, and there was no turning back. My story wasn't about redemption; it was a tale of survival, ambition, and the blurred lines between right and wrong.
-
+```
 
 
 # How did I do?
 
   1. The last paragraph of mine, about the badgers could do with a fix. I'll ask GPT4...
+  2. A few rounds of collaboration got to the following ```That’s how I ended up swimming in a lake, deep into the night, trying to shake Big Pete’s badger brigade off my tail. Rumor had it they'd trained under old Barn Owl Benny, giving them eyes sharper than any in the meadow after sunset. Long story short, I was cornered, got a few nips and bites, and soon came down with that pesky forest fever. Those vet bills? Enough to make any buck think twice about his choices. Don't let it happen to you.```
