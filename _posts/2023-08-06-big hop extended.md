@@ -54,16 +54,18 @@ So I said:
 
 That's a bit too trite and heartwarming. Try again please
 
-And GPT4 responded with a much better effort, which I love. :
+And GPT4 responded with a much better effort, which I love.
 
-```
+  ```
 Alright, let's take a different approach:
 
-After that harrowing incident, things went downhill pretty fast. My reputation took a hit in the forest's underground. I wasn't seen as the reliable bouncer anymore, but rather the buck who got played by Jessica Rabbit. I tried getting work in other bars, but they wouldn’t hire me. The whispers became shouts and the pointing never seemed to stop. In this world, reputation was everything. Lose that, and you're done.
+After that harrowing incident, things went downhill pretty fast. My reputation took a hit in the forest's underground. I wasn't seen as the reliable bouncer anymore, but rather the buck who got played by Jessica Rabbit. I tried getting work in other bars, but they wouldn’t hire me.
+The whispers became shouts and the pointing never seemed to stop. In this world, reputation was everything. Lose that, and you're done.
 
 Desperate for some cash, I started working in the seedy side of the forest. Doing jobs for the very animals I once kept at bay. My conscience was heavy, but so was the weight of my empty stomach.
 
-Laine tried reaching out to me. Said she could offer me some work, but I knew it would be charity. My pride wouldn't allow it. Jane, she kept her distance. Perhaps she felt guilty about the message she delivered, or maybe she was scared of getting involved further. It was a tangled web, and everyone was trying to avoid getting caught.
+Laine tried reaching out to me. Said she could offer me some work, but I knew it would be charity. My pride wouldn't allow it. Jane, she kept her distance. Perhaps she felt guilty about the message she delivered, or maybe she was scared of getting involved further. It was a tangled web, and everyone was
+trying to avoid getting caught.
 
 One evening, as I wandered around the outskirts of the burrow, I ran into Mopsy. She wasn't the same doe I remembered from fifth-grade. Her fur was matted, her eyes sunken, and she had a twitch in her leg. The forest had been harsh on her, and she had faced her share of battles.
 
@@ -78,7 +80,7 @@ The cards were dealt, and with every round, the stakes got higher. By sunrise, I
 The forest had changed me. The young buck, once naive and eager to help, was now a master manipulator, skilled at the art of survival. I had become a legend in the underground world, but at what cost?
 
 Laine tried to reconnect, but I kept her at arm's length, for her safety. I had climbed too deep into the forest's underworld, and there was no turning back. My story wasn't about redemption; it was a tale of survival, ambition, and the blurred lines between right and wrong.
-```
+  ```
 
 
 # How did I do?
