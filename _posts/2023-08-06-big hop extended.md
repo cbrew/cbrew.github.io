@@ -45,8 +45,8 @@ lead us to discover who we truly are.
 # How did GPT4 do?
 
   1. It's coherent, and connects to the story. 
-  2. It's seething with cliche.Some of the right style. Some of the wrong. Life is no fairytale at the wrong end of the burrow.
-  3. Zane and Dane and Paine and Kane and Laine and Jane are narrator's Mom's friends, not his, so introducing them as potemtial romantic interest is kinda icky. But hey, ya know, rabbits, and Fibonacci, so who can tell.
+  2. It's seething with cliche. Some of the right style. Some of the wrong. Life is no fairytale at the wrong end of the burrow.
+  3. Zane and Dane and Paine and Kane and Laine and Jane are narrator's Mom's friends, not his, so introducing them as potential romantic interest is kinda icky. But hey, ya know, rabbits, and Fibonacci, so who can tell.
   4. The "moral" of the extended story, such as it is, is trite and obnoxiously heart-warming. Do better, GPT4!
   5. Absoutely not. The narrator (Wayne) ran a mile when they called him a storyteller, and has no interest in discovering who he really is. He's the barman at Shady Hazel's, definitely still at the wrong end of the burrow. It's not quiet, even less so when he's playing bass and sax with his Bunny Seger tribute band.
 
