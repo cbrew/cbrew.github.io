@@ -4,7 +4,8 @@ title:  "Old Macdonald had a farm"
 date:   2022-11-24 17:56:07 -0500
 categories: old macdonald
 ---
-# For George, aged 2yrs 4 mths, who can sing the song and likes orange dumptrucks
+# Intergenerational conflict on Macdonald's farm
+## For George, aged 2yrs 4 mths, who can sing the song and likes orange dumptrucks
 
 ## GPT 3.5 turbo 1106
 
