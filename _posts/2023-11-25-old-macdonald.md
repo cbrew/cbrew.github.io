@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Old Macdonald had a farm"
+title:  Intergenerational conflict on Macdonald's farm
 date:   2022-11-24 17:56:07 -0500
 categories: old macdonald
 ---
